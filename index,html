@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Andy Đạt</title>
+    <link rel="icon" href="./2.png" type="image/icon type">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+  </head>
+  <body>
+
+    <!--Profile card start-->
+    <div class="card">
+      <div class="card-image">
+        <img src="1.jpg" alt="">
+      </div>
+      <div class="profile-image">
+        <img src="2.png" alt="">
+      </div>
+      <div class="card-content">
+        <h3>Trần Vĩnh Đạt</h3>
+        <h3>Student at FPT University</h3>
+        
+       <p></ap>
+      </div>
+      <div class="icons">
+        <a href="https://www.facebook.com/andy.dat.299/#" class="fab fa-facebook-f"></a>
+        <a href="https://www.instagram.com/dattran_18/" class="fab fa-instagram"></a>
+    
+        <a href="https://open.spotify.com/user/bdj9svkkg6ujgt5zessw7kja5?si=XJzBjJJ-TX-vfaKYqX8RBw&utm_source=copy-link&dl_branch=1" class="fab fa-spotify"></a>
+        <a href="https://github.com/andydat299" class="fab fa-github"></a>
+        <div class="center">
+            <div class="center">
+            Được phát triển bởi <a href="https://www.facebook.com/andy.dat.299"><b>Đạt Trần</b></a>.
+          </div>
+      </div>
+    </div>
+    <!--Profile card end-->
+
+  </body>
+</html>
+      
